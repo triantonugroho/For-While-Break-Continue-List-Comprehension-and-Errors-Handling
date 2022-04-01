@@ -26,3 +26,18 @@ List comprehension is how to create a new list in a short way based on an existi
 Python has two types of errors based on their occurrence
 - Syntax Errors
 - Logical Errors (exceptions)
+
+## Exceptions Handling
+The exception handling process uses a try statement paired with except.
+- ZeroDivisionError
+- FileNotFoundError
+- TypeError
+
+## Handling ZeroDivisionError
+Exception handling for ZeroDivisionError is using try and except ZeroDivisionError and print the error pop-up message to the screen.
+
+## Handling FileNotFoundError
+Exception handling for FileNotFoundError is using try, with ... as, except and print the pop-up error message to the screen.
+
+# Handling TypeError
+To handle TypeError (exception) use try, single or double except's statement and print the pop-up error message to the screen.
