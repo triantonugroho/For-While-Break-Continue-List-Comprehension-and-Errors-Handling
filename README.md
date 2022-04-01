@@ -24,8 +24,10 @@ List comprehension is how to create a new list in a short way based on an existi
 
 ## Errors in Python
 Python has two types of errors based on their occurrence
-- Syntax Errors
-- Logical Errors (exceptions)
+- **Syntax Errors:**
+  Writing program syntax Errors (typo)
+- **Logical Errors (Exceptions):**
+  Programming process logic error
 
 ## Exceptions 
 The exception handling process uses a try statement paired with except.
