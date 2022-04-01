@@ -29,17 +29,17 @@ Python has two types of errors based on their occurrence
 
 ## Exceptions 
 The exception handling process uses a try statement paired with except.
-- ZeroDivisionError:
+- **ZeroDivisionError:**
   ZeroDivisionError is an exception that occurs when program execution results in a mathematical calculation of division by zero.
-- FileNotFoundError:
+- **FileNotFoundError:**
   FileNotFoundError is an exception that occurs when the file to be open does not exist.
-- TypeError:
+- **TypeError:**
   Unsupported operand type for mathematical calculation with different data types  
   
 ## Exceptions Handling
-- Handling ZeroDivisionError:
+- **Handling ZeroDivisionError:**
   Exception handling for ZeroDivisionError is using try and except ZeroDivisionError and print the error pop-up message to the screen.
-- Handling FileNotFoundError:
+- **Handling FileNotFoundError:**
   Exception handling for FileNotFoundError is using try, with ... as, except and print the pop-up error message to the screen.
-- Handling TypeError:
+- **Handling TypeError:**
   To handle TypeError (exception) use try, single or double except's statement and print the pop-up error message to the screen.
