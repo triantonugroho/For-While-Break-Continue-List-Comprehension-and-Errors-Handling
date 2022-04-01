@@ -29,7 +29,7 @@ Python has two types of errors based on their occurrence
 - **Logical Errors (Exceptions):**
   Programming process logic error
 
-## Exceptions 
+## Logical Errors (Exceptions) 
 The exception handling process uses a try statement paired with except.
 - **ZeroDivisionError:**
   An exception that occurs when program execution results in a mathematical calculation of division by zero.
