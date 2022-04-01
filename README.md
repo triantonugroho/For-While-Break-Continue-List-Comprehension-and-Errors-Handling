@@ -16,6 +16,12 @@ The break statement in Python terminates the current loop and resumes execution 
 ## Continue
 The continue statement in Python returns the control to the beginning of the while loop. The continue statement rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop. The continue statement can be used in both while and for loops
 
+## Else After For
+For is used to loop or interact up to the range limit that we have specified and for is also commonly used to loop through code that has known many iterations. else function to print the final result of the loop that we created, so if the result of the loop that we created has reached the end of the process, the else command will be executed.
+
+## Pass
+Pass is an instruction to python that no code is executed, so python continues executing the program below it. Lots of code blocks in python that we can't just leave empty. If we leave it blank the python interpreter will give an error. To work around this, we can put the pass statement as the body of the code block. That way the code block still doesn't do anything, but it doesn't cause an error either.
+
 ## List Comprehension
 List comprehension is how to create a new list in a short way based on an existing list.
 - List comprehension without ***if*** condition
