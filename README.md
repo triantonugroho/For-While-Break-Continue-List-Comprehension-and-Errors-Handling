@@ -1,4 +1,4 @@
-# For-While-Break-Continue-List-Comprehension-and-Errors-Handling
+# For-While-Break-Continue-List-Comprehension-Errors-and-Exceptions-Handling
 
 ## For
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
